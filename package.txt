@@ -1,0 +1,19 @@
+
+📦  draftjs-filters@2.5.0
+=== Tarball Contents === 
+1.1kB  LICENSE                    
+24.1kB dist/draftjs-filters.cjs.js
+23.5kB dist/draftjs-filters.esm.js
+3.0kB  package.json               
+11.6kB CHANGELOG.md               
+15.0kB README.md                  
+=== Tarball Details === 
+name:          draftjs-filters                         
+version:       2.5.0                                   
+filename:      draftjs-filters-2.5.0.tgz               
+package size:  15.9 kB                                 
+unpacked size: 78.3 kB                                 
+shasum:        74ca16378f79b0c6de33b1a0b2fd14129c9476e5
+integrity:     sha512-kyLUeMQOAcdsJ[...]4J2NUBde0Zlxg==
+total files:   6                                       
+

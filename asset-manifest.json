@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/draftjs-filters/static/css/main.2412666b.chunk.css",
-    "main.js": "/draftjs-filters/static/js/main.34e5cdc5.chunk.js",
-    "main.js.map": "/draftjs-filters/static/js/main.34e5cdc5.chunk.js.map",
+    "main.css": "/draftjs-filters/static/css/main.224faa24.chunk.css",
+    "main.js": "/draftjs-filters/static/js/main.c3f909ea.chunk.js",
+    "main.js.map": "/draftjs-filters/static/js/main.c3f909ea.chunk.js.map",
     "runtime-main.js": "/draftjs-filters/static/js/runtime-main.f83f57a7.js",
     "runtime-main.js.map": "/draftjs-filters/static/js/runtime-main.f83f57a7.js.map",
     "static/css/2.00c5ae1f.chunk.css": "/draftjs-filters/static/css/2.00c5ae1f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.936b3e42.chunk.js.map": "/draftjs-filters/static/js/2.936b3e42.chunk.js.map",
     "index.html": "/draftjs-filters/index.html",
     "static/css/2.00c5ae1f.chunk.css.map": "/draftjs-filters/static/css/2.00c5ae1f.chunk.css.map",
-    "static/css/main.2412666b.chunk.css.map": "/draftjs-filters/static/css/main.2412666b.chunk.css.map",
+    "static/css/main.224faa24.chunk.css.map": "/draftjs-filters/static/css/main.224faa24.chunk.css.map",
     "static/js/2.936b3e42.chunk.js.LICENSE.txt": "/draftjs-filters/static/js/2.936b3e42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f83f57a7.js",
     "static/css/2.00c5ae1f.chunk.css",
     "static/js/2.936b3e42.chunk.js",
-    "static/css/main.2412666b.chunk.css",
-    "static/js/main.34e5cdc5.chunk.js"
+    "static/css/main.224faa24.chunk.css",
+    "static/js/main.c3f909ea.chunk.js"
   ]
 }

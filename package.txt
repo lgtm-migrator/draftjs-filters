@@ -12,7 +12,7 @@ version:       2.5.0
 filename:      draftjs-filters-2.5.0.tgz               
 package size:  12.5 kB                                 
 unpacked size: 66.5 kB                                 
-shasum:        da76d2ac68337e6c71b8faf14180730617c38d0f
-integrity:     sha512-MFx1E5jITrVl5[...]Q9YPWMbBNMdrw==
+shasum:        9bfc3d113d2b7dd86126688805113fc77decb0cd
+integrity:     sha512-E8MmpZebUhjYC[...]RelD3q98VE54g==
 total files:   5                                       
 
